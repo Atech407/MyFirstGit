@@ -9,3 +9,7 @@ This is my first repository.
 - Created my first commit
 - Learned Git add and commit
 - Connected my local project to GitHub
+## Next Learning Goals
+- Learn Git branches
+- Practice GitHub repositories
+- Build programming projects
